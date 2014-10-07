@@ -17,6 +17,8 @@
  */
 package com.google.protobuf;  // This is a lie.
 
+
+// google profot
 /**
  * Helper class to extract byte arrays from {@link ByteString} without copy.
  * <p>
