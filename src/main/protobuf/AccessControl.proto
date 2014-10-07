@@ -17,7 +17,7 @@
  */
 
  /**
- [most usually referenced docs]
+ [most usually referenced docs by jsonfree]
  */
 option java_package = "org.apache.hadoop.hbase.protobuf.generated";
 option java_outer_classname = "AccessControlProtos";
